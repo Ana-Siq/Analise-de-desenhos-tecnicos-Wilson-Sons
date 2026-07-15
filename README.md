@@ -76,9 +76,15 @@ O desafio consiste em automatizar a transformação de desenhos técnicos em uma
                                                               │  em tempo real          │
                                                               └───────────────────────┘
 ```
+---
+
 ## PDF com prints da aplicação 
  [Prints das telas do projeto desafio 1 funcionando.pdf](https://github.com/Ana-Siq/Analise-de-desenhos-tecnicos-Wilson-Sons/blob/main/docs/Prints%20das%20telas%20do%20projeto%20desafio%201%20funcionando.pdf)
 ---
+
+## PROMPT UTILIZADO PARA CRIAR A INTERFACE DO LOVABLE
+[Prompt utilizado para criar a interface do Lovable.PDF](https://github.com/Ana-Siq/Analise-de-desenhos-tecnicos-Wilson-Sons/blob/main/docs/Prompt%20utilizado%20para%20criar%20a%20interface%20do%20Lovable.pdf)
+
 
 ## ⚙️ Como funciona (passo a passo)
 
