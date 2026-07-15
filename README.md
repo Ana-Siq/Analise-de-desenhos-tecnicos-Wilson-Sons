@@ -76,7 +76,8 @@ O desafio consiste em automatizar a transformação de desenhos técnicos em uma
                                                               │  em tempo real          │
                                                               └───────────────────────┘
 ```
-
+## PDF com prints da aplicação 
+ [Prints das telas do projeto desafio 1 funcionando.pdf](https://github.com/Ana-Siq/Analise-de-desenhos-tecnicos-Wilson-Sons/blob/main/docs/Prints%20das%20telas%20do%20projeto%20desafio%201%20funcionando.pdf)
 ---
 
 ## ⚙️ Como funciona (passo a passo)
