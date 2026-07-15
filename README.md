@@ -104,6 +104,7 @@ O desafio consiste em automatizar a transformação de desenhos técnicos em uma
 | Frontend / upload | [Lovable.dev](https://lovable.dev) |
 | Armazenamento de arquivos | Google Drive |
 | Orquestração / automação | [Make.com](https://make.com) |
+| Arquivo com configurações [Make.com](https://make.com) | [Importe para o Make - Analise de Desenhos Tecnicos.blueprint.json](https://raw.githubusercontent.com/Ana-Siq/Analise-de-desenhos-tecnicos-Wilson-Sons/refs/heads/main/docs/Importe%20para%20o%20Make%20-%20Analise%20de%20Desenhos%20Tecnicos.blueprint.json) |
 | Extração de dados (IA/Visão) | Google Gemini API (`gemini-2.5-flash`) |
 | Banco de materiais / estoque | Google Sheets |
 | Notificação em tempo real | Supabase Edge Functions + Realtime Broadcast |
